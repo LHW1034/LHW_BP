@@ -1,0 +1,2 @@
+# LHW_HandwrittenNumeralRecognition
+基于 Numpy 库构建一个简单的神经网络训练模型，支持全连接的正向反向传播，通过把机器学习的理论知识与工程实践结合起来，手动构建以加强对理论的认识。
